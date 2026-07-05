@@ -1,0 +1,20 @@
+title: COKEPAIN Portfolio
+description: 개발 프로젝트 포트폴리오
+author: COKEPAIN
+email: tlstmdals05@gmail.com
+url: "https://cokepain.github.io"
+baseurl: ""
+
+theme: minima
+
+header_pages:
+  - projects.md
+  - about.md
+
+minima:
+  skin: dark
+  social_links:
+    - { platform: github, user_url: "https://github.com/COKEPAIN" }
+
+exclude:
+  - README.md
